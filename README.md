@@ -23,7 +23,7 @@ Download the YOLOv8 model weights from Ultralytics and place them in the appropr
 Usage
 Run the script:
 
-python main.py
+python phoneAI.py
 Position the camera to monitor the area of interest.
 
 If a phone is detected, an alarm will sound until the phone is removed from the camera's view.
